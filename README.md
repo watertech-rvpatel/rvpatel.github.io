@@ -16,4 +16,4 @@ I am a researcher specializing in membrane distillation, industrial wastewater t
 🔗 LinkedIn: https://www.linkedin.com/in/errvpatel  
 
 ## Website
-👉 https://watertech-rvpatel.github.io
+👉 https://rvpatel.github.io
